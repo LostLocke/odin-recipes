@@ -1,6 +1,8 @@
-body {
+#index-body {
     background-color: #16448c;
+    width: 100%
 }
+
 
 #recipe-container {
     max-width: 50%;
